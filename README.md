@@ -1,12 +1,12 @@
 <img src="https://avatars1.githubusercontent.com/u/48249676?s=200&v=4" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
-# GDG Cloud Santiago - Grupo de Estudio de App Mod
+# GDG Cloud Santiago
 
 ## Si aún no lo has hecho, síguenos en todas nuestras páginas, grupos y redes que tenemos para ti!
 
 - Suscríbete a nuestro canal en Youtube: https://www.youtube.com/gdgcloudsantiago
 - Regístrate en GDG Community para no perderte ninguno de nuestros eventos: https://gdg.community.dev/gdg-cloud-santiago-de-chile
-- Únete a nuestro Grupo de estudio de Whatsapp de App Mod: https://chat.whatsapp.com/H3S8Mj2bvMXFIxoJWXoCKv
+- Únete a nuestro Grupo de estudio de Whatsapp: https://chat.whatsapp.com/H3S8Mj2bvMXFIxoJWXoCKv
 
 ## Además!
 
